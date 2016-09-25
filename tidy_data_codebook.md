@@ -1,6 +1,6 @@
 ## The tidy_data.txt file contains the following observation consisting only of Mean and Std of the observed subject performing the 'Activity' listed below
 
-## Column Observation = total 81
+## Column Names with a total of 81 observation
 subject
 activity
 timeBodyAccelerometer.mean...X
